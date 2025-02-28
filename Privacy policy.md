@@ -721,7 +721,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 13\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 ----------------------------------------------
 
-**If you have questions or comments about this notice, you may email us at soalexandrion1997@gmail.com
+If you have questions or comments about this notice, you may email us at soalexandrion1997@gmail.com
 
 14\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 ------------------------------------------------------------------------
